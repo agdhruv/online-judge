@@ -28,6 +28,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Sumbit Code</title>
+	<link rel="stylesheet" href="css/common.css">
 </head>
 <body>
 	<form method="POST" action="submit-code.php">
